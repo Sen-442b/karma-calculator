@@ -9,6 +9,6 @@
 
 Karma Calculator is an online public log to keep track of your good and bad actions.
 
-### 🏗️ Status <a name="status></a>
+### 🏗️ Status <a name="status"></a>
 
 Active : currently working on backend
